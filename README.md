@@ -15,5 +15,10 @@ The overall Framework of SpW-Net is:
   <img src="https://github.com/Wangzc420/SpW-Net/blob/main/Image/SpW-Net%20Framework.png">
 </div>
 
+Overview of our SpW-Net framework with hierarchical dual-branch Encoder and Decoder structure. The measured voltages from the sensors are reshaped to VFM (16×16) and expanded to the HR-VFM (256×256) in a spatial-domain branch. Four layers of up-sampling obtain the initial imaging results in the spatial domain, and the ConvNeXt layer (shown in the green dot box) and the wavelet domain are obtained by the ISTA solver. The focuses of our design are residual fast Fourier convolution (RFFC), shifted/window-based wavelet vision Transformer (W2Former), and dual-domain feature fusion block (DFFB), where the details of these three core designs are illustrated in Section III-B, Section III-C, and Section III-D in the main paper. Finally, the output image is obtained by the initial reconstruction in the spatial domain and the results of the Decoder.
+
+The Supplementary Materials are uploaded, which include the Noise robust analysis, Resolution analysis, and more visualization results.  
+
+The code will be released once this paper is accepted. 
 
 
