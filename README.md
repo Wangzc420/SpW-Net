@@ -7,6 +7,10 @@ The performances of our SpW-Net and other comparisons are listed as follows:
   <img src="https://github.com/Wangzc420/SpW-Net/blob/main/Image/Overall%20Performance.png">
 </div>
 
+The overall Framework of SpW-Net is:
+<div align="center">
+  <img src="https://github.com/Wangzc420/SpW-Net/blob/main/Image/Overall%20Performance.png">
+</div>
 
 
 
