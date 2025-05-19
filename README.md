@@ -27,7 +27,7 @@ The code will be released once this paper is accepted.
 
 In this Figure, the more representative reconstructions are shown, where the visual results and absolute error maps are shown. The absolute error maps between reconstructions and ground truth to could highlight the differences in visual perceptions and display the texture details. As shown in these two groups of visualizations and error maps, the proposed SpW-Net is capable of reconstructing clearer and sharper boundaries and accurate electrical distributions.
 <div align="center">
-  <img src="https://github.com/Wangzc420/SpW-Net/blob/main/Image/SpW-Net%20Framework.png">
+  <img src="https://github.com/Wangzc420/SpW-Net/blob/main/Image/SpW-Net%20Results1_Multi-phase.png">
 </div>
 
 
